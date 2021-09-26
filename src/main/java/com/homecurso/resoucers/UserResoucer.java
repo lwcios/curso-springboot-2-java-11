@@ -3,8 +3,6 @@ package com.homecurso.resoucers;
 import java.net.URI;
 import java.util.List;
 
-import javax.persistence.PostUpdate;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
